@@ -94,15 +94,15 @@ MATLAB demonstrated broad capabilities for solving optimization and operations r
 </p>
 
 <p align="center">
-  <img src="images/task_2_1_2" width="90%"/>
+  <img src="images/task_2_1_2.png" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="images/task_2_1_3" width="90%"/>
+  <img src="images/task_2_1_3.png" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="images/task_2_1_4" width="90%"/>
+  <img src="images/task_2_1_4.png" width="90%"/>
 </p>
 
 <p align="center">
@@ -110,11 +110,11 @@ MATLAB demonstrated broad capabilities for solving optimization and operations r
 </p>
 
 <p align="center">
-  <img src="images/task_2_2_2" width="90%"/>
+  <img src="images/task_2_2_2.png" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="images/task_2_2_3" width="90%"/>
+  <img src="images/task_2_2_3.png" width="90%"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ MATLAB demonstrated broad capabilities for solving optimization and operations r
 </p>
 
 <p align="center">
-  <img src="images/task_2_3_2" width="90%"/>
+  <img src="images/task_2_3_2.png" width="90%"/>
 </p>
 
 <p align="center">
