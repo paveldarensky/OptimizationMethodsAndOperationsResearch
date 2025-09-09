@@ -79,29 +79,50 @@ MATLAB продемонстрировал широкие возможности 
 /  
 MATLAB demonstrated broad capabilities for solving optimization and operations research problems.  
 
-## 
+## 📷 Галерея результатов / Results Gallery
 
 <p align="center">
-  <img src="images/task_1_1.png" width="45%"/>
-  <img src="images/task_1_2.png" width="45%"/>
+  <img src="images/task_1_1.png" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="images/task_2_1_1.png" width="22.5%"/>
-  <img src="images/task_2_1_2" width="22.5%"/>
-  <img src="images/task_2_1_3" width="22.5%"/>
-  <img src="images/task_2_1_4" width="22.5%"/>
+  <img src="images/task_1_2.png" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="images/task_2_2_1.png" width="30%"/>
-  <img src="images/task_2_2_2" width="30%"/>
-  <img src="images/task_2_2_3" width="30%"/>
+  <img src="images/task_2_1_1.png" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="images/task_2_3_1.png" width="45%"/>
-  <img src="images/task_2_3_2" width="45%"/>
+  <img src="images/task_2_1_2" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_2_1_3" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_2_1_4" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_2_2_1.png" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_2_2_2" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_2_2_3" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_2_3_1.png" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_2_3_2" width="90%"/>
 </p>
 
 <p align="center">
@@ -109,6 +130,9 @@ MATLAB demonstrated broad capabilities for solving optimization and operations r
 </p>
 
 <p align="center">
-  <img src="images/task_3_1.png" width="45%"/>
-  <img src="images/task_3_2.png" width="45%"/>
+  <img src="images/task_3_1.png" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="images/task_3_2.png" width="90%"/>
 </p>
